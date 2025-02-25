@@ -1,9 +1,15 @@
 # build-a-tool-to-monitor-changes-in-files-by-calculating-and-comparing-hash-values
+
 COMPANY:CODE TECH IT SOLUTIONS
+
 NAME:LONEZADA MOHAMMAD NAJEEB UL HAQ
+
 INTERN ID:CTO8IUE
+
 DOMAIN:CYBER SECURITY AND ETHICAL HACKING
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
 
 Description of the File Integrity Checker Script
